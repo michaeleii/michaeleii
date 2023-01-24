@@ -2,7 +2,7 @@
 My name is Michael Lei, I am currently studying Full Stack Web Development at the British Columbia Institue of Technology (BCIT)
 
 ## 🤯 What I'm Currently Learning
-[![What I'm Currently Learning](https://skillicons.dev/icons?i=ts,mysql,mongodb,deno,php,react,vue,svelte)](https://skillicons.dev)
+![What I'm Currently Learning](https://skillicons.dev/icons?i=ts,mysql,mongodb,deno,php,react,vue,svelte)
 
 ## 👨‍💻 Hobbies
 - Watching Chinese and Korean dramas
@@ -10,15 +10,15 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 ## ⚒️ Tech Stack
 ### Languages
 #### Web Development
-[![Web Development](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+![Web Development](https://skillicons.dev/icons?i=html,css,javascript)
 #### Terminal
-[![Terminal](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
+![Terminal](https://skillicons.dev/icons?i=bash,powershell)
 #### Data Analysis
-[![Data Analysis](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev)
+![Data Analysis](https://skillicons.dev/icons?i=py,r)
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=bootstrap,sass,ps,ai,figma)](https://skillicons.dev)
+![Frontend](https://skillicons.dev/icons?i=bootstrap,sass,ps,ai,figma)
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,pug)](https://skillicons.dev)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,pug)
 
 <!--
 **michaeleii/michaeleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
