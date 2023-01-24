@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 My name is Michael Lei, I am currently studying Full Stack Web Development at the British Columbia Institue of Technology (BCIT)
 
 ### What I'm Currently Learning
