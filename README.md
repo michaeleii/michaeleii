@@ -6,7 +6,6 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 
 ## 👨‍💻 Hobbies
 - Watching Chinese and Korean dramas
-- Playing Fornite
 
 ## ⚒️ Tech Stack
 ### Languages
