@@ -10,7 +10,7 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 ## ⚒️ Tech Stack
 ### Languages
 #### Web Development
-![Web Development](https://skillicons.dev/icons?i=html,css,javascript)
+![Web Development](https://skillicons.dev/icons?i=html,css,javascript,webpack)
 #### Terminal
 ![Terminal](https://skillicons.dev/icons?i=bash,powershell)
 #### Data Analysis
