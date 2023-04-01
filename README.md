@@ -2,7 +2,7 @@
 My name is Michael Lei, I am currently studying Full Stack Web Development at the British Columbia Institue of Technology (BCIT)
 
 ## 🤯 What I'm Currently Learning
-![What I'm Currently Learning](https://skillicons.dev/icons?i=ts,mysql,mongodb,deno,php,react,vue,svelte)
+![What I'm Currently Learning](https://skillicons.dev/icons?i=ts,react,mysql,mongodb,deno,php)
 
 ## 👨‍💻 Hobbies
 - Watching Chinese and Korean dramas
