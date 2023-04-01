@@ -2,7 +2,7 @@
 My name is Michael Lei, I am currently studying Full Stack Web Development at the British Columbia Institue of Technology (BCIT)
 
 ## 🤯 What I'm Currently Learning
-![What I'm Currently Learning](https://skillicons.dev/icons?i=ts,react,mysql,mongodb,deno,php)
+![What I'm Currently Learning](https://skillicons.dev/icons?i=ts,react,deno,php)
 
 ## 👨‍💻 Hobbies
 - Watching Chinese and Korean dramas
@@ -19,6 +19,8 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 ![Frontend](https://skillicons.dev/icons?i=bootstrap,sass,ps,ai,figma)
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,pug)
+### Database
+![Database](https://skillicons.dev/icons?i=mongodb,mysql)
 
 <!--
 **michaeleii/michaeleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
