@@ -20,7 +20,7 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,pug)
 #### Database
-![Database](https://skillicons.dev/icons?i=mongodb,mongoose,mysql,prisma,planetscale)
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,prisma,planetscale)
 
 <!--
 **michaeleii/michaeleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
