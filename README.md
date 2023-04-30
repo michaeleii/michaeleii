@@ -18,6 +18,8 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 ![Database](https://skillicons.dev/icons?i=mongodb,mysql,prisma,planetscale,redis)
 #### Web Design
 ![Web Design](https://skillicons.dev/icons?i=ps,ai,figma)
+#### Testing
+![Testing](https://skillicons.dev/icons?i=jest)
 #### Terminal
 ![Terminal](https://skillicons.dev/icons?i=bash,powershell)
 #### Data Analysis
