@@ -8,7 +8,6 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 - Watching Chinese and Korean dramas
 
 ## ⚒️ Tech Stack
-### Languages
 #### Web Development
 ![Web Development](https://skillicons.dev/icons?i=html,css,javascript,ts,vite)
 #### Frontend
