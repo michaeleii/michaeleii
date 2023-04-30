@@ -11,7 +11,7 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 #### Web Development
 ![Web Development](https://skillicons.dev/icons?i=html,css,javascript,ts,vite)
 #### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,sass)
+![Frontend](https://skillicons.dev/icons?i=react,redux,tailwind,styledcomponents,bootstrap,sass)
 #### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,pug)
 #### Database
