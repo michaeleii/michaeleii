@@ -11,16 +11,17 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 ### Languages
 #### Web Development
 ![Web Development](https://skillicons.dev/icons?i=html,css,javascript,ts,vite)
-#### Terminal
-![Terminal](https://skillicons.dev/icons?i=bash,powershell)
-#### Data Analysis
-![Data Analysis](https://skillicons.dev/icons?i=py,r)
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,ps,ai,figma)
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,pug)
 #### Database
 ![Database](https://skillicons.dev/icons?i=mongodb,mysql,prisma,planetscale)
+#### Terminal
+![Terminal](https://skillicons.dev/icons?i=bash,powershell)
+#### Data Analysis
+![Data Analysis](https://skillicons.dev/icons?i=py,r)
+
 
 <!--
 **michaeleii/michaeleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
