@@ -11,7 +11,7 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 #### Web Development
 ![Web Development](https://skillicons.dev/icons?i=javascript,ts,vite,astro)
 #### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,redux,svelte,tailwind,styledcomponents,bootstrap,sass)
+![Frontend](https://skillicons.dev/icons?i=react,svelte,tailwind,styledcomponents,bootstrap,sass)
 #### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,pug)
 #### Database
@@ -24,6 +24,8 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 ![Terminal](https://skillicons.dev/icons?i=bash,powershell)
 #### Data Analysis
 ![Data Analysis](https://skillicons.dev/icons?i=py,r)
+#### State Mangement
+![State Mangement](https://skillicons.dev/icons?i=redux)
 
 
 <!--
