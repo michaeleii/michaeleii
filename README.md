@@ -2,7 +2,7 @@
 My name is Michael Lei, I am currently studying Full Stack Web Development at the British Columbia Institue of Technology (BCIT)
 
 ## 🤯 What I'm Currently Learning
-![What I'm Currently Learning](https://skillicons.dev/icons?i=php,postgres,deno,tauri)
+![What I'm Currently Learning](https://skillicons.dev/icons?i=php,deno,tauri)
 
 ## 👨‍💻 Hobbies
 - Watching Chinese and Korean dramas
@@ -15,7 +15,7 @@ My name is Michael Lei, I am currently studying Full Stack Web Development at th
 #### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,pug,supabase)
 #### Database
-![Database](https://skillicons.dev/icons?i=mysql,planetscale,redis,sqlite,prisma,mongodb)
+![Database](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,planetscale,prisma,mongodb)
 #### Web Design
 ![Web Design](https://skillicons.dev/icons?i=ps,ai,figma)
 #### Testing
