@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
-    <a href="https://michaeleii.github.io/">home</a>
+    <a href="https://michaeleii.github.io/">home</a> .
+    <a href="https://www.linkedin.com/in/michaelleii">linkedin</a>
   </samp>
 </p>
 
