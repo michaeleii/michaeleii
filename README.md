@@ -1,9 +1,12 @@
+<div align="center">
+<img src="https://github.com/michaeleii/michaeleii/assets/57844588/709dc8bb-08eb-4cf4-bfb3-010b9daeb38e" width="60" height="60" />
 <p align="center">
   <samp>
     <a href="https://michaeleii.github.io/">home</a> .
     <a href="https://www.linkedin.com/in/michaelleii">linkedin</a>
   </samp>
 </p>
+</div>
 
 <!--
 **michaeleii/michaeleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
