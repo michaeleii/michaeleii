@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/michaeleii/michaeleii/assets/57844588/709dc8bb-08eb-4cf4-bfb3-010b9daeb38e" width="60" height="60" /> Hello, I am Michael</h1>
+<h1>Hello, I am Michael <img src="https://github.com/michaeleii/michaeleii/assets/57844588/709dc8bb-08eb-4cf4-bfb3-010b9daeb38e" width="60" height="60" /></h1>
 
 <!--
 **michaeleii/michaeleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
