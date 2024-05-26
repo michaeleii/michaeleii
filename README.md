@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Michael Lei
 
-I'm a Technical Project Manager at Videre Financiers and a software engineer dedicated to building software that enhances productivity.
+I'm a Technical Project Manager at Videre Financiers and a software engineer dedicated to building software that utilizes artifical intelligence to improving our everyday lives.
 
 ##  Technical Skills
 - Languages: JavaScript, TypeScript
-- Frameworks & Libraries: React, Next.js, Node.js
+- Frameworks & Libraries: React, Next.js, Node.js, OpenAI, Langchain
 - Tools & Platforms: GitHub, Docker, AWS, Vercel, Supabase, Appwrite
 
 ## Contact Me
