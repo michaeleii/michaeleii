@@ -3,7 +3,7 @@
 I'm a Technical Project Manager at Videre Financiers and a software engineer dedicated to building software that utilizes artifical intelligence to improving our everyday lives.
 
 ##  Technical Skills 🛠️
-| **Category**          | **Items**                                                                 |
+| **Category**          | **Technologies**                                                                 |
 |-----------------------|--------------------------------------------------------------------------|
 | **Languages**         | JavaScript, TypeScript                                                   |
 | **Frameworks & Libraries** | React, Next.js, Node.js, Bun, Deno                                    |
