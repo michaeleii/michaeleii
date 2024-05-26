@@ -6,10 +6,13 @@ I'm a Technical Project Manager at Videre Financiers and a software engineer ded
 | **Category**          | **Technologies**                                                                 |
 |-----------------------|--------------------------------------------------------------------------|
 | **Languages**         | JavaScript, TypeScript                                                   |
-| **Frameworks & Libraries** | React, Next.js, MDX, Astro, Drizzle ORM, Node.js, Bun, Deno                                    |
+| **Frameworks & Libraries** | React, Next.js, MDX, Astro, TailwindCSS, Drizzle ORM, Node.js,                                   |
 | **AI**                | OpenAI, Langchain, Groq, Ollama                                           |
-| **Tools & Platforms** | GitHub, Docker, AWS, Vercel, Neon, Turso, Supabase, Appwrite                           |
+| **Database** | PostgreSQL, Mysql, SQLite, Neon, Turso, Supabase, Appwrite                           |
+| **Platforms** | GitHub, Docker, AWS, Vercel                           |
 | **Testing**           | Playwright, Storybook, Vitest, React Testing Library, JSDOM, Jest         |
+
+
 
 ## Contact Me 📬
 
