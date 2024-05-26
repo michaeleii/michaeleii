@@ -1,4 +1,23 @@
-<img src="https://github.com/michaeleii/michaeleii/assets/57844588/709dc8bb-08eb-4cf4-bfb3-010b9daeb38e" width="60" height="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span align="center"><img src="https://skillicons.dev/icons?i=react,ts,tailwindcss,cs,dotnet,php,laravel,mysql,postgres" /></span>
+# 👋 Hey there, I'm Michael Lei
+
+I'm a Technical Project Manager at Videre Financiers and a software engineer dedicated to building software that enhances productivity.
+
+##  Technical Skills
+- Languages: JavaScript, TypeScript
+- Frameworks & Libraries: React, Next.js, Node.js
+- Tools & Platforms: GitHub, Docker, AWS, Vercel, Supabase, Appwrite
+
+## Contact Me
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the following channels:
+
+| Channel     | Details                                                                 |
+|-------------|-------------------------------------------------------------------------|
+| **Email**   | [michael8940@hotmail.com](mailto:michael8940@hotmail.com)               |
+| **LinkedIn**| [Michael Lei](https://www.linkedin.com/in/michaelleii/)                  |
+| **GitHub**  | [github.com/michaeleii](https://github.com/michaeleii)                  |
+
+Looking forward to connecting with you!
 
 <!--
 **michaeleii/michaeleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
