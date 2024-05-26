@@ -7,6 +7,7 @@ I'm a Technical Project Manager at Videre Financiers and a software engineer ded
 - Frameworks & Libraries: React, Next.js, Node.js
 - AI: OpenAI, Langchain, Groq, Ollama
 - Tools & Platforms: GitHub, Docker, AWS, Vercel, Supabase, Appwrite
+- Testing: Playwright, Storybook, Vitest, React Testing Library, JSDOM, Jest
 
 ## Contact Me
 
