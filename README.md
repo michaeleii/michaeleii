@@ -4,7 +4,7 @@ I'm a Technical Project Manager at Videre Financiers and a software engineer ded
 
 ##  Technical Skills
 - Languages: JavaScript, TypeScript
-- Frameworks & Libraries: React, Next.js, Node.js
+- Frameworks & Libraries: React, Next.js, Node.js, Bun, Deno
 - AI: OpenAI, Langchain, Groq, Ollama
 - Tools & Platforms: GitHub, Docker, AWS, Vercel, Supabase, Appwrite
 - Testing: Playwright, Storybook, Vitest, React Testing Library, JSDOM, Jest
