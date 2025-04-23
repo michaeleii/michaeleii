@@ -1,15 +1,3 @@
-# 👋 Hey there, I'm Michael Lei
-| **Category**          | **Technologies**                                                                 |
-|-----------------------|--------------------------------------------------------------------------|
-| **Languages**         | JavaScript, TypeScript                                                   |
-| **Frameworks & Libraries** | React, Next.js, MDX, Astro, TailwindCSS, Drizzle ORM, Node.js,                                   |
-| **Database** | PostgreSQL, Mysql, SQLite, Neon, Turso, Supabase, Appwrite                           |
-| **Artifical Intelligence**                | OpenAI, Langchain, Groq, Ollama                                           |
-| **Platforms** | GitHub, Docker, AWS, Vercel                           |
-| **Testing**           | Playwright, Storybook, Vitest, React Testing Library, JSDOM, Jest         |
-
-## Contact Me 📬
-
 Currently open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the following channels:
 
 - [Email](mailto:michaelleie0ca@gmail.com)
