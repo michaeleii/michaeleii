@@ -8,13 +8,11 @@
 | **Platforms** | GitHub, Docker, AWS, Vercel                           |
 | **Testing**           | Playwright, Storybook, Vitest, React Testing Library, JSDOM, Jest         |
 
-
-
 ## Contact Me 📬
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the following channels:
+Currently open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the following channels:
 
-- [Email](mailto:michael8940@hotmail.com)
+- [Email](mailto:michaelleie0ca@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/michaelleii/)
 
 Looking forward to connecting with you !
