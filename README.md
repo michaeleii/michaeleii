@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Michael Lei
 
-I'm a Technical Project Manager at Videre Financiers and a software engineer dedicated to building software that utilizes artifical intelligence to improving our everyday lives.
-
 ##  Technical Skills 🛠️
 | **Category**          | **Technologies**                                                                 |
 |-----------------------|--------------------------------------------------------------------------|
