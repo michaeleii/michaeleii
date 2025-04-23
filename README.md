@@ -1,6 +1,4 @@
 # 👋 Hey there, I'm Michael Lei
-
-##  Technical Skills 🛠️
 | **Category**          | **Technologies**                                                                 |
 |-----------------------|--------------------------------------------------------------------------|
 | **Languages**         | JavaScript, TypeScript                                                   |
