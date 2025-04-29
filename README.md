@@ -1,7 +1,7 @@
 Currently open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 
-🗓️ [Book Appointment](https://cal.com/michael-lei)
+### [Book Appointment](https://cal.com/michael-lei)
 
 Looking forward to connecting with you !
 
