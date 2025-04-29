@@ -1,7 +1,7 @@
-Currently open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the following channels:
+Currently open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-- [Email](mailto:michaelleie0ca@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/michaelleii/)
+
+[<kbd> <br> Book Appointment <br> </kbd>][https://cal.com/michael-lei]
 
 Looking forward to connecting with you !
 
